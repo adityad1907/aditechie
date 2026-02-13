@@ -3,10 +3,10 @@
 
 ## About Me 🚀
 
-I'm a **[Student]** which is learning **[python, web development]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a Aditya Deshmukh and learning **[python, web development]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Python, Web development,Java]**
-- 🔭 Working on: **[Skills using python]**
+- 🔭 Working on: **[Skills using python,Web Development Using Html,CSS & JS ]**
 - 🌍 Languages: **[I can code in C , python and Html.]**
 - 📫 How to reach me: **[adityadeshmukh1992007@gmail.com]**
 
