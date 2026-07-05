@@ -17,3 +17,5 @@ I'm a Aditya Deshmukh and learning **[python, web development]**. I love tacklin
 
 - **[LinkedIn]**([linkedin.com/in/aditya-deshmukh-635327332](https://www.linkedin.com/in/aditya-deshmukh-635327332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG3hkH3XStWmWscVS%2FbN6g%3D%3D))
 - **[Youtube]**(www.youtube.com/@codetechiees)
+
+- **[Discord]**(xoverlordxa)
