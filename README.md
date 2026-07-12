@@ -1,21 +1,36 @@
-# Hi there, I'm [Aditya]! 👋
+<h1 align="center">Hi 👋, I'm Aditya Deshmukh</h1>
+<h3 align="center">Welcome to my GitHub profile!</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityadeshmukh19" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.instagram.com/aditya.deshmukh.19" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;">
+  </a>
+  <a href="mailto:adityadeshmukh1992007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?color=D14836&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;">
+  </a>
+</p>
 
-## About Me 🚀
+---
 
-I'm a Aditya Deshmukh and learning **[python, web development]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+## 📊 GitHub Stats
 
-- 🌱 Currently learning: **[Python, Web development,Java]**
-- 🔭 Working on: **[Skills using python,Web Development Using Html,CSS & JS ]**
-- 🌍 Languages: **[I can code in C , python and Html.]**
-- 📫 How to reach me: **[adityadeshmukh1992007@gmail.com]**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityad1907&theme=radical" alt="GitHub Streak"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityad1907&theme=redical" alt="Activity Graph"/>
+</p>
 
+---
 
+## 📫 Contact Me
 
-## Get in Touch 📬
-
-- **[LinkedIn]**([linkedin.com/in/aditya-deshmukh-635327332](https://www.linkedin.com/in/aditya-deshmukh-635327332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG3hkH3XStWmWscVS%2FbN6g%3D%3D))
-- **[Youtube]**(www.youtube.com/@codetechiees)
-
-- **[Discord]**(xoverlordxa)
+<p align="center">
+  Feel free to reach out via <a href="mailto:adityadeshmukh1992007@gmail.com">email</a>,
+  connect on <a href="https://www.linkedin.com/in/adityadeshmukh19">LinkedIn</a>,
+  or say hi on <a href="https://www.instagram.com/aditya.deshmukh.19">Instagram</a>!
+</p>
