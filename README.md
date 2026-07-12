@@ -53,6 +53,29 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityad1907&theme=redical" alt="Activity Graph"/>
 </p>
 
+## 🌱 Learning &amp; Hobbies
+
+**💡 Learning:**
+
+  ✨ C++
+  
+  ✨ Git & GitHub
+
+  ✨ Flask 
+  
+  ✨ Django 
+  
+
+**- Hobbies:**
+
+  ✨ Gaming 
+  
+  ✨ Watching Anime 
+  
+  ✨ Building Things 
+  
+  ✨ Pure Offline 
+
 ---
 
 ## 📫 Contact Me
